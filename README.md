@@ -10,3 +10,5 @@
 Хакатон проводится при поддержке Минобрнауки России.
 
 #ЮФУ #ИКТИБ #Хакатон #CyberGarden #грантМинобрнаукиРФ
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b84ce0f-8105-469d-bcb2-8f7ea1fe399e" />
+
